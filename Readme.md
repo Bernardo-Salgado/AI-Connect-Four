@@ -1,4 +1,4 @@
-# Connect Four game for AI class project
+# Connect Four game
 
 Compile with javac Main.java
 
